@@ -1,4 +1,4 @@
-# README
+
 # 💫 About Me:
 ICT diploma graduate in Information & Communication Technology with a strong interest in UI/UX research, cybersecurity, and digital forensics. I enjoy working on design-focused and impact-driven projects rather than heavy coding, with experience exploring AI solutions using AWS tools like Bedrock and SageMaker.<br><br>Currently building skills in system design, user experience thinking, and security concepts, aiming to grow into roles that blend technology, usability, and real-world problem solving.<br>
 
