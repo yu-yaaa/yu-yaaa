@@ -16,18 +16,16 @@ ICT diploma graduate in Information & Communication Technology with a strong int
 ---
 [![](https://komarev.com/ghpvc/?username=Yu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🏅 Certifications & Badges
-
-<div align="center">
-
-<a href="https://www.credly.com/badges/992052bc-f39b-4488-9c68-e538a988fcff/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/992052bc-f39b-4488-9c68-e538a988fcff/image.png" width="180" alt="Credly Badge">
-</a>
-
-</div>
+<h2 align="center">🏆 Certifications</h2>
 
 <p align="center">
-Click the badge to view the certification details.
+<a href="https://www.credly.com/badges/992052bc-f39b-4488-9c68-e538a988fcff/public_url">
+<img src="https://images.credly.com/images/5f013417-029e-4298-915d-d6021348e644/blob" width="200">
+</a>
+</p>
+
+<p align="center">
+Professional certifications and achievements
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
